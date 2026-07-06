@@ -88,18 +88,6 @@ A Full Stack E-Commerce platform with
 
 ---
 
-## 🏛 CitizenConnect
-
-Complaint Management System
-
-- Node.js
-- Express.js
-- MongoDB
-- JWT Authentication
-- REST APIs
-
----
-
 ## 🚘 AI License Plate Recognition
 
 Deep Learning based Number Plate Recognition
